@@ -73,7 +73,7 @@ export default function Novelty() {
         <Card className="rounded-2xl shadow-soft-md hover:shadow-soft-lg transition-shadow duration-300">
           <CardContent className="p-8">
             <p className="text-lg mb-8">
-              Evertree Vault represents a quantum leap forward by combining
+              EverVault represents a quantum leap forward by combining
               Internet Computer Protocol&apos;s unique capabilities with
               emerging AI technologies in ways never before possible:
             </p>

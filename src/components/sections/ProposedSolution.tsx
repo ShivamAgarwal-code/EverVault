@@ -124,7 +124,7 @@ export default function ProposedSolution() {
           <Card className="rounded-2xl shadow-soft-md">
             <CardContent className="p-8">
               <p className="text-lg mb-6">
-                EverTree Vault creates an immutable, distributed knowledge
+                EverVault creates an immutable, distributed knowledge
                 archive that ensures information remains:
               </p>
               <div className="space-y-4 mb-8">
@@ -173,7 +173,7 @@ export default function ProposedSolution() {
 
               <div className="rounded-xl border border-border p-6 mb-8 bg-background/50">
                 <h3 className="text-xl font-bold mb-6">
-                  How EverTree Vault Works
+                  How EverVault Works
                 </h3>
 
                 {/* Simple workflow visualization */}

@@ -7,7 +7,7 @@ import "@fontsource/ibm-plex-mono";
 import "@fontsource/vt323";
 
 export const metadata: Metadata = {
-  title: "EverTree Vault",
+  title: "EverVault",
   description:
     "Evertree is a decentralized knowledge base that ensures information remains uncensorable, permanent, verifiable, and accessible.",
   keywords: [

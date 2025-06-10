@@ -25,7 +25,7 @@ export function SystemFlowDiagram({ steps }: SystemFlowDiagramProps) {
         viewport={{ once: true }}
       >
         <div className="text-primary font-bold text-xs text-center">
-          EverTree
+          Ever
           <br />
           Core
         </div>

@@ -445,7 +445,7 @@ export default function ProblemStatement() {
           <Card className="rounded-2xl shadow-soft-md border border-primary/20 bg-primary/5">
             <CardContent className="p-4">
               <p className="text-sm font-medium">
-                EverTree Vault addresses these critical requirements through a
+                EverVault addresses these critical requirements through a
                 combination of ICP&apos;s orthogonal persistence, zero-knowledge
                 cryptography, and distributed AI-powered verification.
               </p>

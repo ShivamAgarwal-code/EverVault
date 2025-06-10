@@ -187,7 +187,7 @@ export default function Impact() {
             <Card className="rounded-2xl shadow-soft-md">
               <CardContent className="p-8">
                 <p className="text-lg mb-6">
-                  When fully realized, EverTree Vault will transcend being just
+                  When fully realized, EverVault will transcend being just
                   a technological solution—it could catalyze a societal shift
                   toward information integrity and democratic knowledge access.
                 </p>
@@ -260,7 +260,7 @@ export default function Impact() {
               <h3 className="text-xl font-bold mb-2">Our Vision by 2030</h3>
               <p className="text-muted-foreground text-sm max-w-md">
                 These metrics represent the potential scale and impact we aim to
-                achieve as EverTree Vault grows and matures.
+                achieve as EverVault grows and matures.
               </p>
             </div>
 
@@ -482,7 +482,7 @@ export default function Impact() {
                           Projections extrapolated from growth rates of
                           platforms like Signal, Substack, and ICP adoption
                           curves, adjusted for the unique value proposition of
-                          EverTree Vault.
+                          EverVault.
                         </p>
                       </TooltipContent>
                     </Tooltip>
@@ -717,7 +717,7 @@ export default function Impact() {
 
               <div className="mt-6 text-center">
                 <p className="text-sm text-muted-foreground">
-                  EverTree Vault aims to establish a self-sustaining ecosystem
+                  EverVault aims to establish a self-sustaining ecosystem
                   where truth preservation becomes financially viable and
                   censorship attempts become technically infeasible.
                 </p>

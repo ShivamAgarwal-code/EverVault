@@ -102,7 +102,7 @@ export default function ProfilePage() {
               >
                 Hi, I&apos;m{" "}
                 <span className="text-primary underline underline-offset-4">
-                  Azzam
+                  Shivam
                 </span>
               </motion.h1>
             </div>
@@ -112,7 +112,7 @@ export default function ProfilePage() {
             variants={itemVariants}
             className="text-xl md:text-2xl text-muted-foreground not-dark:text-green-900 mb-8 max-w-2xl mx-auto"
           >
-            CS Student • Developer • Vibe Coder
+            • Developer • Vibe Coder
           </motion.p>
 
           <motion.div
@@ -120,7 +120,7 @@ export default function ProfilePage() {
             className="flex flex-wrap gap-4 justify-center not-dark:text-green-900"
           >
             <Link
-              href="https://linkedin.com/in/m-azzam-azis"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 rounded-lg bg-background/80 backdrop-blur-sm border border-border hover:bg-accent/30 transition-all"
@@ -130,7 +130,7 @@ export default function ProfilePage() {
             </Link>
 
             <Link
-              href="https://github.com/m-azzam-azis"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 rounded-lg bg-background/80 backdrop-blur-sm border border-border hover:bg-accent/30 transition-all"
@@ -140,7 +140,7 @@ export default function ProfilePage() {
             </Link>
 
             <Link
-              href="mailto:m.azzam.azis@gmail.com"
+              href="mailto:agarwalshivam116@gmail.com"
               className="flex items-center gap-2 px-4 py-2 rounded-lg bg-background/80 backdrop-blur-sm border border-border hover:bg-accent/30 transition-all"
             >
               <LuMail className="w-5 h-5" />
@@ -168,7 +168,7 @@ export default function ProfilePage() {
                 </h2>
 
                 <p className="mb-4 text-lg">
-                  I&apos;m a Computer Science student from Indonesia with a
+                  I&apos;m a developer with a
                   passion for creating technology that empowers people and
                   protects fundamental freedoms.
                 </p>
@@ -192,7 +192,7 @@ export default function ProfilePage() {
                 <div className="mb-6">
                   <h3 className="text-lg font-bold">Computer Science</h3>
                   <p className="text-muted-foreground">
-                    University of Indonesia
+                    University
                   </p>
                 </div>
 

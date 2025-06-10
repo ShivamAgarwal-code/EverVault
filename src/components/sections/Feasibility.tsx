@@ -181,7 +181,7 @@ export default function Feasibility() {
         <Card className="rounded-2xl shadow-soft-md hover:shadow-soft-lg transition-shadow duration-300 mb-8">
           <CardContent className="p-8">
             <p className="text-lg mb-6">
-              Evertree Vault is built on proven technological foundations that
+              EverVault is built on proven technological foundations that
               enable truly decentralized, permanent knowledge storage with
               unprecedented reliability:
             </p>

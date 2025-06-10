@@ -164,7 +164,7 @@ export default function DemoPage() {
               </div>
 
               <h2 className="text-2xl font-bold mb-4">
-                Welcome to EverTree Vault Demo
+                Welcome to EverVault Demo
               </h2>
 
               <p className="text-[#3a3a3a] mb-6 max-w-lg">
@@ -365,7 +365,7 @@ export default function DemoPage() {
                       Authenticate with II
                     </h3>
                     <p className="text-center text-[#3a3a3a] mb-6">
-                      Sign in with Internet Identity to access EverTree Vault
+                      Sign in with Internet Identity to access EverVault
                       securely.
                     </p>
 
